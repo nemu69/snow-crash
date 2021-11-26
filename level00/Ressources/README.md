@@ -4,4 +4,4 @@ cat the 2 file
 
 dcode.fr 
 
-password = nottoohardhere
+password = nottoohadhere
