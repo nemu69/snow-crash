@@ -6,7 +6,7 @@ First, we tried to find if we got some information about the flag00.
 $ find / -user flag00 2> /dev/null
 ```
 
-After running the command, two results appear.
+After running the command, two results appears.
 
 ```
 > /usr/sbin/john
