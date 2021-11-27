@@ -20,7 +20,7 @@ After some try with gdb we decide to see inside the file.
 $ cat ./level03
 ```
 
-And we see some multiple line interesting. But the most curois line was ` /usr/bin/env echo Exploit me `
+And we see some multiple line interesting. But the most curious line was ` /usr/bin/env echo Exploit me `
 
 ```
 ▒[▒/usr/bin/env echo Exploit me0p▒▒▒L▒▒▒▒p▒▒▒▒▒▒▒▒▒▒▒▒▒▒zR|
