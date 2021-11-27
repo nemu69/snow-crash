@@ -28,7 +28,7 @@ The most rational word was:
 
 ` A=1, B=15, nottoohardhere `
 
-Try againt to log on the user flag00 with the new password
+Try again to log on the user flag00 with the new password
 
 ```
 $ su flag00
