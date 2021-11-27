@@ -21,7 +21,7 @@ $ cat /usr/sbin/john
 ```
 
 After some attempt, we see the password didn't work.
-So we decide to go on the <a hred="dcode.f">dcode</a> website, talked in the school video.
+So we decide to go on the <a hred="dcode.f">dcode.fr</a> website, talked in the school video.
 
 And after some research on the website, we find the decrypted part and try to unlock it.
 The most rational word was:
