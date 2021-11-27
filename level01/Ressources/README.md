@@ -6,7 +6,7 @@ First, we tried to see the password stocket on the machine.
 $ cat /etc/passwd
 ```
 
-After that, multiple line appear, but only one got a password not hide, the flag01
+After that, multiple line appears, but only one got a password not hide, the flag01
 
 ```
 > ...
