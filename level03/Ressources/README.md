@@ -41,6 +41,12 @@ On line :
 $ echo /bin/getflag > /tmp/echo ; chmod 777 /tmp/echo ; export PATH=/tmp
 ```
 
+Remember to get back the old path.
+
+```
+$ export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+```
+
 Trying againt and...
 
 ```
