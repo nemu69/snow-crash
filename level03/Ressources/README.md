@@ -1,6 +1,6 @@
 # level03 solve
 
-Firstly, at all, when we get logged and trying to see if we got the file we can see we have one file "level03"
+Firstly, at all, when we get logged and trying to see if we got the file we can see we have one file ` level03 `
 
 ```
 $ ls
