@@ -1,20 +1,23 @@
 # level02 solve
 
-At first, get a PCAP file with scp command
+At first, when we get logged and trying to see if we got the file we can see we have one file `level02.pcap`
 
-https://en.wikipedia.org/wiki/Pcap
+```
+$ ls
+> level02.pcap
+```
 
-scp -P 4242 level02@ip:level02.pcap .
+Get a <a href="https://en.wikipedia.org/wiki/Pcap">PCAP</a> file with scp command
 
-Use WireShark and check hexadicimal data of all lines until 'pass word:'.
+```
+$ scp -P 4242 level02@ip:level02.pcap .
+```
 
-https://www.wireshark.org/
+Use <a href="https://www.wireshark.org/">Wireshark</a> and check hexadicimal data of all lines until ` pass word: `
 
-The hexadicimal numbers match the keyboard input. Some lines use 7F, that's a DEL 
+The hexadicimal numbers match the keyboard input. Some lines use 7F (�), that's a DEL in <a href="https://en.wikipedia.org/wiki/ASCII">ASCII</a>
 
-ft_wandrNDRelL0L = ft_waNDReL0L
-
-https://en.wikipedia.org/wiki/ASCII
+`ft_wandrNDRelL0L = ft_waNDReL0L`
 
 Try again to log on the user flag02 with the new password
 
