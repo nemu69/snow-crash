@@ -28,7 +28,6 @@ And we see some multiple line interesting. But the most curious line was `LOGNAM
 
 After some reflexion, we decide to try to see if `LOGNAME` is in machine environment.
 
-
 ```
 $ env
 > ...
