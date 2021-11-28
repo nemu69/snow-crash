@@ -42,7 +42,7 @@ Waiting some time later (2min max)
 
 ```
 $ cat /tmp/flag
-> viuaaale9huek52boumoomioc
+> Check flag.Here is your token : viuaaale9huek52boumoomioc
 ```
 
 We got it!
