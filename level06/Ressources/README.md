@@ -8,7 +8,7 @@ $ ls
 > level06.php
 ```
 
-So we decide to run the binary level06 and see he us the level06.php, after see that we decide to try to change the php file for doing a php request launching the getflag, and we found <a href="https://www.php.net/manual/fr/function.exec.php">that</a>.
+So we decide to run the binary level06 and seeing he us the level06.php, after see that we decide to try to change the php file for doing a php request launching the getflag, and we found <a href="https://www.php.net/manual/fr/function.exec.php">that</a>.
 
 result:
 
@@ -18,7 +18,7 @@ result:
 ?>
 ```
 
-After modifing the php file with an exec command, we need to get the right to modify file on the repository
+After modifying the php file with an exec command, we need to get the right to modify files on the repository
 
 ```
 $ chmod 777 .
