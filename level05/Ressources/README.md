@@ -1,6 +1,6 @@
 # level05 solve
 
-After a few minutes we receive a message
+When you get logged or after a few minutes we receive a message
 
 ```
 > You have new mail in /var/mail/level05
