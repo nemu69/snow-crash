@@ -51,7 +51,7 @@ Trying again and...
 
 ```
 $ ./level03
-> qi0maab88jeaj46qoumi7maus
+> Check flag.Here is your token : qi0maab88jeaj46qoumi7maus
 ```
 
 We got it!
