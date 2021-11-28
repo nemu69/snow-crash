@@ -32,7 +32,7 @@ With that we can see 3 important elements :
 - x(param("x")); -> parameter who can contain a value
 ```
 
-After 
+Ok let's do this
 
 ```
 $ curl localhost:4747?x=\`getflag\`
