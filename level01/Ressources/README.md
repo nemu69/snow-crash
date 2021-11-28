@@ -1,12 +1,12 @@
 # level01 solve
 
-First, we tried to see the password stocket on the machine.
+First, we tried to see the passwords stored on the machine.
 
 ```
 $ cat /etc/passwd
 ```
 
-After that, multiple line appears, but only one got a password not hide, the flag01
+After that, multiple line appears, but only one got a not hidden password, the flag01
 
 ```
 > ...
@@ -28,7 +28,7 @@ $ cat flag01
 ```
 
 After some attempt, we see the password didn't work.
-So we decide to go search on the web if it was possible to get the password from the passwd file and we found <a href="https://null-byte.wonderhowto.com/how-to/crack-shadow-hashes-after-getting-root-linux-system-0186386/">that</a>, and we donwload <a href="https://www.openwall.com/john/">John the ripper</a>.
+So we decide to go search on the web if it was possible to get the password from the passwd file and we found <a href="https://null-byte.wonderhowto.com/how-to/crack-shadow-hashes-after-getting-root-linux-system-0186386/">that</a>, and we download <a href="https://www.openwall.com/john/">John the ripper</a>.
 
 - Install john: ` brew install john `
 
