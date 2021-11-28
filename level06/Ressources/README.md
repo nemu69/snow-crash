@@ -29,7 +29,7 @@ And after that, we just need to move the php file, because it's easier, we going
 scp
 
 ```
-$ scp -P 4242 level06/Ressources/level06.php level01@ip:level06.php
+$ scp -P 4242 level06/Ressources/level06.php level06@ip:level06.php
 ```
 
 bash
