@@ -7,14 +7,14 @@ $ ls
 > level03
 ```
 
-It look like an binary file so we decide to run it.
+It looks like a binary file so we decide to run it.
 
 ```
 $ ./level03
 > Exploit me
 ```
 
-After some try with gdb we decide to see inside the file.
+After some tries with gdb we decide to see inside the file.
 
 ```
 $ cat ./level03
@@ -26,7 +26,7 @@ And we see some multiple line interesting. But the most curious line was ` /usr/
 ▒[▒/usr/bin/env echo Exploit me0p▒▒▒L▒▒▒▒p▒▒▒▒▒▒▒▒▒▒▒▒▒▒zR|
 ```
 
-After some reflexion, we decide to try se if the tmp folder got all right.
+After some reflexion, we decide to try to see if the tmp folder got all right.
 And it is the case, so we decide to redirect echo on getflag, because we suppose that the executable use ` execve ` for printing the message with the bin ` echo ` .
 
 ```
@@ -47,7 +47,7 @@ Remember to get back the old path if you remove it.
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 ```
 
-Trying againt and...
+Trying again and...
 
 ```
 $ ./level03
