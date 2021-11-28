@@ -7,7 +7,7 @@ $ su flag09
 $ 
 > Don't forget to launch getflag!
 $ getflag
-> 
+> Check flag.Here is your token : 
 ```
 
 We got it!
