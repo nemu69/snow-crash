@@ -17,7 +17,7 @@ $ ./level07
 We decide to see inside the file.
 
 ```
-$ cat ./level03
+$ cat ./level07
 ```
 
 And we see some multiple line interesting. But the most curious line was `LOGNAME/bin/echo %s `
