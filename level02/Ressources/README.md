@@ -26,7 +26,7 @@ $ su flag02
 $ ft_waNDReL0L
 > Don't forget to launch getflag!
 $ getflag
-> kooda2puivaav1idi4f57q8iq
+> Check flag.Here is your token : kooda2puivaav1idi4f57q8iq
 ```
 
 We got it!
