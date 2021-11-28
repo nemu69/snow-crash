@@ -6,7 +6,7 @@ After a few minutes we receive a message
 > You have new mail in /var/mail/level05
 ```
 
-Openning the file we got an bash command
+Opening the file we got a bash command
 
 ```
 $ cat level05
