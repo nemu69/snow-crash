@@ -18,7 +18,7 @@ This project is an introduction to computer security. Snow Crash will make you d
 - Your repository will look like this:
 ![rendu](https://user-images.githubusercontent.com/45235527/142430447-e9724631-561a-4432-99c5-c6c6c651bd75.PNG)
 - You will keep everything you need to prove your results during the evaluation in the Resource folder. The flag file may be empty, but you may have to explain why.
-- • If you need to use a specific file that’s included on the project’s ISO, you must download it during the evaluation. You must put it in your repo under no circumstances.
+- If you need to use a specific file that’s included on the project’s ISO, you must download it during the evaluation. You must put it in your repo under no circumstances.
 - If you plan to use a specific external software, you must set up a specific environment (VM, docker, Vagrant).
 - You’re invited to create scripts that will make you stall, but you will have to explain them during the evaluation.
 - For the mandatory part, you must complete the following list of levels:
