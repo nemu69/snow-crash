@@ -35,7 +35,7 @@ $ su flag00
 $ nottoohardhere
 > Don't forget to launch getflag!
 $ getflag
-> x24ti5gi3x0ol2eh4esiuxias
+> Check flag.Here is your token : x24ti5gi3x0ol2eh4esiuxias
 ```
 
 We got it!
