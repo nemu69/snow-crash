@@ -44,7 +44,7 @@ $ su flag01
 $ abcdefg
 > Don't forget to launch getflag!
 $ getflag
-> f2av5il02puano7naaf6adaaf
+> Check flag.Here is your token : f2av5il02puano7naaf6adaaf
 ```
 
 We got it!
