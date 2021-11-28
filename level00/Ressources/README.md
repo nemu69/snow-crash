@@ -6,14 +6,14 @@ First, we tried to find if we got some information about the flag00.
 $ find / -user flag00 2> /dev/null
 ```
 
-After running the command, two results appears.
+After running the command, two results appear.
 
 ```
 > /usr/sbin/john
 > /rofs/usr/sbin/john
 ```
 
-They got the same value when we go throw the file.
+They got the same value when we go through the file.
 
 ```
 $ cat /usr/sbin/john
