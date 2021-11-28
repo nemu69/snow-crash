@@ -32,7 +32,7 @@ Because it's a cron, we know that will be a loop on all scripts in the folder, r
 
 With that knowledge, we can create a script to get the password
 
-Ok let try that
+Ok let's try that
 
 ```
 $ echo "getflag > /tmp/flag" > /opt/openarenaserver/file
