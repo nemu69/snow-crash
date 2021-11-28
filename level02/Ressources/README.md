@@ -13,9 +13,9 @@ Get a <a href="https://en.wikipedia.org/wiki/Pcap">PCAP</a> file with scp comman
 $ scp -P 4242 level02@ip:level02.pcap .
 ```
 
-Use <a href="https://www.wireshark.org/">Wireshark</a> and check hexadicimal data of all lines until ` pass word: `
+Use <a href="https://www.wireshark.org/">Wireshark</a> and check hexadecimal data of all lines until ` pass word: `
 
-The hexadicimal numbers match the keyboard input. Some lines use 7F (�), that's a DEL in <a href="https://en.wikipedia.org/wiki/ASCII">ASCII</a>
+The hexadecimal numbers match the keyboard input. Some lines use 7F (�), that's a DEL in <a href="https://en.wikipedia.org/wiki/ASCII">ASCII</a>
 
 `ft_wandrNDRelL0L = ft_waNDReL0L`
 
