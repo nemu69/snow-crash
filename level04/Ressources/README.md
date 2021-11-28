@@ -1,6 +1,6 @@
 # level04 solve
 
-For begin, when we get logged and trying to see if we got the file we can see we have one file ` level04.pl `
+To begin, when we get logged and trying to see if we got the file we can see we have one file ` level04.pl `
 
 ```
 $ ls
