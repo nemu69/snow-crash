@@ -8,7 +8,7 @@ $ ls
 > level06.php
 ```
 
-So we decide to run the binary level06 and seeing he us the level06.php, after see that we decide to try to change the php file for doing a php request launching the getflag, and we found <a href="https://www.php.net/manual/fr/function.exec.php">that</a>.
+So we decide to run the binary level06 and seeing he us the level06.php, after seeing that we decide to try to change the php file for doing a php request launching the getflag, and we found <a href="https://www.php.net/manual/fr/function.exec.php">that</a>.
 
 result:
 
@@ -18,13 +18,13 @@ result:
 ?>
 ```
 
-After modifying the php file with an exec command, we need to get the right to modify files on the repository
+After modifying the php file with an exec command, we need to get the right to modify files in the repository
 
 ```
 $ chmod 777 .
 ```
 
-And after that, we just need to move the php file, because it's easier, we going to prefer using an echo and mv on the tmp folder between than use move with the scp command but in case...
+And after that, we just need to move the php file, because it's easier, we going to prefer using an echo and mv to the tmp folder between than use move with the scp command but in case...
 
 scp
 
