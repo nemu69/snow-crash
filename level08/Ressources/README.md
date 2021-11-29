@@ -24,6 +24,7 @@ $ ./level08 token
 Doesn't work, but we just need to have access to the token
 
 ```
+$ chmod 777 .
 $ mv token file
 ```
 
