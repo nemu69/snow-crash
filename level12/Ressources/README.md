@@ -58,7 +58,7 @@ With that we can see 4 important elements :
 - @output = `egrep "^$xx" /tmp/xd 2>&1`; -> will be breakable with a code injection cause of ` character
 ```
 
-According to elements, we should make an injection using an uppercase file (reading right) who write ```getflag``` return value on another file
+According to elements, we should make an injection using an uppercase file (read permisssion) who write ```getflag``` return value on another file
 
 ```
 $ echo "getflag > /tmp/flag" > /tmp/GET
