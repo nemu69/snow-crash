@@ -20,12 +20,14 @@ So with being informed, we decide to see what the cron script does
 
 ```
 $ cat /usr/sbin/openarenaserver
-> #!/bin/sh
->
-> for i in /opt/openarenaserver/* ; do
->         (ulimit -t 5; bash -x "$i")
->         rm -f "$i"
-> done
+```
+```bash
+#!/bin/sh
+
+for i in /opt/openarenaserver/* ; do
+        (ulimit -t 5; bash -x "$i")
+         rm -f "$i"
+done
 ```
 
 Because it's a cron, we know that will be a loop on all scripts in the folder, running and be deleted, and that every 2 minutes.
