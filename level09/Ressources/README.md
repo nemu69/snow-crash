@@ -49,4 +49,4 @@ $ getflag
 
 We got it!
 
-> <a href="../flag">flag</a> - <a href="../../level08">previous level</a> <!-- - <a href="../../level10">next level</a> -->
+> <a href="../flag">flag</a> - <a href="../../level08">previous level</a> - <a href="../../level10">next level</a>
