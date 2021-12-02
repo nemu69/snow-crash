@@ -21,7 +21,7 @@ $ gdb ./level13
 $ layout asm
 ```
 
-And we see a cmp on the address ` *0x0804859a `, so we put a breakpoint on him seeing the ways he going to take
+And we see a cmp on the address ` 0x0804859a `, so we put a breakpoint on him seeing the ways he going to take
 
 ```
 $ break *0x0804859a
