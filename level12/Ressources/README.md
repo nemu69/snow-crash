@@ -1,6 +1,6 @@
-# level08 solve
+# level12 solve
 
-To begin, when we get logged and trying to see if we got the file we can see we have one file ` level04.pl `
+To begin, when we get logged and trying to see if we got the file we can see we have one file ` level12.pl `
 
 ```
 $ ls
@@ -58,7 +58,7 @@ With that we can see 4 important elements :
 - @output = `egrep "^$xx" /tmp/xd 2>&1`; -> will be breakable with a code injection cause of ` character
 ```
 
-According to elements, we should make an injection using an uppercase file (reading right) who write ```getflag``` return value on another file
+According to elements, we should make an injection using an uppercase file (read permisssion) who write ```getflag``` return value on another file
 
 ```
 $ echo "getflag > /tmp/flag" > /tmp/GET
