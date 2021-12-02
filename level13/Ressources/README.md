@@ -25,6 +25,9 @@ And we see a cmp on the address ` *0x0804859a `, so we put a breakpoint on him s
 
 ```
 $ break *0x0804859a
+$ run
+$ stepi
+$ ...
 ```
 
 Running the binary and we see is going throw getuid@plt after the je invalid, it's probably going to the error we see before, so let's skip it and go to the jump equal on address ` 0x080485cb `
