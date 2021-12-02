@@ -51,9 +51,9 @@ With that we can see 4 important elements :
 
 - n(t(param("x"), param("y"))); -> parameters who can contain a value
 
-- $xx = $_[0];			|	  First parameter (x) will be transform
-  $xx =~ tr/a-z/A-Z/;	| ->  to uppercase and 
-  $xx =~ s/\s.*//;		|	  remove spaces
+- $xx = $_[0];        |	  First parameter (x) will be transform
+  $xx =~ tr/a-z/A-Z/; | ->  to uppercase and 
+  $xx =~ s/\s.*//;    |	  remove spaces
 
 - @output = `egrep "^$xx" /tmp/xd 2>&1`; -> will be breakable with a code injection cause of ` character
 ```
