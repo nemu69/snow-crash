@@ -12,7 +12,7 @@ This project aims to make you discover, through several little challenges, cyber
 You will use more or less complex methods that will give you a new perspective on IT in general.
 You will reach some stalemate during this project. You will have to surpass themyourself. You must be the one and ONLY key to the locked doors you will face. This project aims to develop some logic thinking you will learn for good and use in the future. 
 
-> *Project en collaboration avec <a href="https://github.com/nemu69">Nemuel Page Léonie</a> (<a href="https://profile.intra.42.fr/users/nepage-l">nepage-l</a>).*
+> *Project en collaboration avec <a href="https://github.com/AcensJJ">Jean-Jacques Acens</a> (<a href="https://profile.intra.42.fr/users/jacens">jacens</a>).*
 
 # Mandatory part 
 
