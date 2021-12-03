@@ -34,7 +34,7 @@ Warning: Using access() to check if a user is authorized to, for example, open a
 access() always dereferences symbolic links. If you need to check the permissions on a symbolic link
 ```
 
-Let's search too of <a href="https://doc.ubuntu-fr.org/lien_physique_et_symbolique">symbolic link</a>
+Let's search too of <a href="https://doc.ubuntu-fr.org/lien_physique_et_symbolique"> the symbolic link</a>
 
 ```
 $ man ln
