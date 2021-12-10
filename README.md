@@ -34,3 +34,14 @@ You will reach some stalemate during this project. You will have to surpass them
     - level07.
     - level08.
     - level09.
+
+# Bonus part
+
+- For the bonus part, you can complete the following list of levels:
+    - level10
+    - level11
+    - level12
+    - level13
+    - level14
+   
+  
